@@ -11,3 +11,6 @@ Le système gère la diffusion des émissions (appelées programmes lorsqu'elles
 ## Collaboration
 
 Ce projet a été réalisé en collaboration avec mes collègues, **KHAZEM Lynda** et **HATEM Nadir**, dans le cadre de notre licence 3 **(2024/2025)** en cours de BD avancée.
+(https://github.com/Lyndakhazem)
+
+
